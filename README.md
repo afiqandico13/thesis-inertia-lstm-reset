@@ -1,6 +1,3 @@
-Berikut adalah **README.md lengkap dalam satu blok** – salin dan tempel langsung ke file `README.md` di repositori GitHub Anda.
-
-```markdown
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-CPU-orange)](https://pytorch.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
